@@ -1,4 +1,4 @@
-# Meituan-AI-coding
+index.html
 # SkillLoop · 技能互换平台
 
 > 用你的技能，换你想学的。不用花钱报班，也不用一个人硬扛自学——在这里，每个人都是老师，也是学生。
